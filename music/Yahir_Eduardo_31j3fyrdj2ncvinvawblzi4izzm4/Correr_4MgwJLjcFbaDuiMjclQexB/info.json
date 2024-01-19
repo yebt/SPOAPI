@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/4MgwJLjcFbaDuiMjclQexB"
+  },
+  "href": "https://api.spotify.com/v1/playlists/4MgwJLjcFbaDuiMjclQexB",
+  "id": "4MgwJLjcFbaDuiMjclQexB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6",
+      "width": 640
+    }
+  ],
+  "name": "Correr",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MixlM2FiZDU2YmRkMDY4YWE2OTNiM2M2OTBkMTY1MTU1MDgyY2MyYmMy",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/4MgwJLjcFbaDuiMjclQexB/tracks",
+    "total": 1
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:4MgwJLjcFbaDuiMjclQexB"
+}

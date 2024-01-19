@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/0L4LCq1FA3I7CjO4iUaGPX"
+  },
+  "href": "https://api.spotify.com/v1/playlists/0L4LCq1FA3I7CjO4iUaGPX",
+  "id": "0L4LCq1FA3I7CjO4iUaGPX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731440ffaa43c53d65719e0150",
+      "width": 640
+    }
+  ],
+  "name": "Phonk",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MywzZjJjYzBkODY2OTIwOTBjNTI4ZWY2OTlkYzBiYThkMjY0YTJjOTQz",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/0L4LCq1FA3I7CjO4iUaGPX/tracks",
+    "total": 2
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:0L4LCq1FA3I7CjO4iUaGPX"
+}

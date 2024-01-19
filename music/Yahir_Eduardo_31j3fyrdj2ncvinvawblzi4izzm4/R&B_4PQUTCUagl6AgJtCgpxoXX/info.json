@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/4PQUTCUagl6AgJtCgpxoXX"
+  },
+  "href": "https://api.spotify.com/v1/playlists/4PQUTCUagl6AgJtCgpxoXX",
+  "id": "4PQUTCUagl6AgJtCgpxoXX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ecf36e52de2607a385617d6",
+      "width": 640
+    }
+  ],
+  "name": "R&B",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MywyMjgzMTQwNGY5ZjA2YWNhNDVlMTQ4OGFlMmFlMWJkNGMzZGVkYjg5",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/4PQUTCUagl6AgJtCgpxoXX/tracks",
+    "total": 2
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:4PQUTCUagl6AgJtCgpxoXX"
+}

@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/6mxGZF1OEBdyXVZcXfKOOD"
+  },
+  "href": "https://api.spotify.com/v1/playlists/6mxGZF1OEBdyXVZcXfKOOD",
+  "id": "6mxGZF1OEBdyXVZcXfKOOD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273197e2ed230f4bc0b984679a2ab67616d0000b27390437857156526859e13afdaab67616d0000b273abf17a42035542c942feac37ab67616d0000b273d23da10dae735da2a2137d21",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273197e2ed230f4bc0b984679a2ab67616d0000b27390437857156526859e13afdaab67616d0000b273abf17a42035542c942feac37ab67616d0000b273d23da10dae735da2a2137d21",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273197e2ed230f4bc0b984679a2ab67616d0000b27390437857156526859e13afdaab67616d0000b273abf17a42035542c942feac37ab67616d0000b273d23da10dae735da2a2137d21",
+      "width": 60
+    }
+  ],
+  "name": "Dubstep",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "OCxhOTUwNjJjMGY2YjdiODc3NTI2YWYxODQwMjBjOWZmZWQ3ODhjNjcw",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/6mxGZF1OEBdyXVZcXfKOOD/tracks",
+    "total": 7
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:6mxGZF1OEBdyXVZcXfKOOD"
+}

@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/71mqVF1I1VyW9rbSp5FfC2"
+  },
+  "href": "https://api.spotify.com/v1/playlists/71mqVF1I1VyW9rbSp5FfC2",
+  "id": "71mqVF1I1VyW9rbSp5FfC2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2731c2fb6a45fb9c4d30a4bfa9eab67616d0000b273a3ab46bc77dbe9e2dff879fbab67616d0000b273b661d9d73921e40ae97cb5e4ab67616d0000b273eede8ca62134dd7bdecb6085",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2731c2fb6a45fb9c4d30a4bfa9eab67616d0000b273a3ab46bc77dbe9e2dff879fbab67616d0000b273b661d9d73921e40ae97cb5e4ab67616d0000b273eede8ca62134dd7bdecb6085",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2731c2fb6a45fb9c4d30a4bfa9eab67616d0000b273a3ab46bc77dbe9e2dff879fbab67616d0000b273b661d9d73921e40ae97cb5e4ab67616d0000b273eede8ca62134dd7bdecb6085",
+      "width": 60
+    }
+  ],
+  "name": "Street trap",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NixlNzBkNmI3MzRhMjJhMjY3ZjdlM2MxZjlhNzhkZTM1ZjVkODEyNjY2",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/71mqVF1I1VyW9rbSp5FfC2/tracks",
+    "total": 5
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:71mqVF1I1VyW9rbSp5FfC2"
+}

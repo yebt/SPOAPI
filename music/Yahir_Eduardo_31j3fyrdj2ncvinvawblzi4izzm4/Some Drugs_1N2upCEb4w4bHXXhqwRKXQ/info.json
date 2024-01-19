@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/1N2upCEb4w4bHXXhqwRKXQ"
+  },
+  "href": "https://api.spotify.com/v1/playlists/1N2upCEb4w4bHXXhqwRKXQ",
+  "id": "1N2upCEb4w4bHXXhqwRKXQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b27327edcec3c3d490f03d99fda6ab67616d0000b27350841469c90736fc790cf300ab67616d0000b2736404fdef267b14d7a548f182ab67616d0000b2739c93931e7cfa4d8216056795",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b27327edcec3c3d490f03d99fda6ab67616d0000b27350841469c90736fc790cf300ab67616d0000b2736404fdef267b14d7a548f182ab67616d0000b2739c93931e7cfa4d8216056795",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b27327edcec3c3d490f03d99fda6ab67616d0000b27350841469c90736fc790cf300ab67616d0000b2736404fdef267b14d7a548f182ab67616d0000b2739c93931e7cfa4d8216056795",
+      "width": 60
+    }
+  ],
+  "name": "Some Drugs",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MzUsYzM2NzA1NjFiZGQwMDUxYmY1MjE5N2U1N2JkYWY1YzBjYzM0NGM1NA==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/1N2upCEb4w4bHXXhqwRKXQ/tracks",
+    "total": 34
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:1N2upCEb4w4bHXXhqwRKXQ"
+}

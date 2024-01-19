@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/5us8UazxLN9mXTHgJJakKX"
+  },
+  "href": "https://api.spotify.com/v1/playlists/5us8UazxLN9mXTHgJJakKX",
+  "id": "5us8UazxLN9mXTHgJJakKX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306d9a0206fd0a331e50caa90",
+      "width": 640
+    }
+  ],
+  "name": "Badvives",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NCw2YWU2YTg1OTVmY2ZmY2I5MTExODZmOWNhMTM1Zjc3YTFkNDJmOTVl",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/5us8UazxLN9mXTHgJJakKX/tracks",
+    "total": 3
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:5us8UazxLN9mXTHgJJakKX"
+}

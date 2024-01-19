@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/59O9tEOVNxSlimuuVy3PXG"
+  },
+  "href": "https://api.spotify.com/v1/playlists/59O9tEOVNxSlimuuVy3PXG",
+  "id": "59O9tEOVNxSlimuuVy3PXG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2730009ff4085864d592d09cbdaab67616d0000b2732974365bb66d6bb820156ba5ab67616d0000b2732fc4f13d76756457be0b1a7eab67616d0000b27339fadf2d03ca85cf9182142e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2730009ff4085864d592d09cbdaab67616d0000b2732974365bb66d6bb820156ba5ab67616d0000b2732fc4f13d76756457be0b1a7eab67616d0000b27339fadf2d03ca85cf9182142e",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2730009ff4085864d592d09cbdaab67616d0000b2732974365bb66d6bb820156ba5ab67616d0000b2732fc4f13d76756457be0b1a7eab67616d0000b27339fadf2d03ca85cf9182142e",
+      "width": 60
+    }
+  ],
+  "name": "When I work",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MTQsMDliY2FlMTllMDAzNzk1N2M0YmFiODdlODMzNjAwYWQxMjg4NzhhZg==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/59O9tEOVNxSlimuuVy3PXG/tracks",
+    "total": 13
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:59O9tEOVNxSlimuuVy3PXG"
+}

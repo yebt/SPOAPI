@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/74BKjMQLcfbHRTkbbhMWTs"
+  },
+  "href": "https://api.spotify.com/v1/playlists/74BKjMQLcfbHRTkbbhMWTs",
+  "id": "74BKjMQLcfbHRTkbbhMWTs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b",
+      "width": 640
+    }
+  ],
+  "name": "Musica exótica de baile",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MyxmMTFmZWQ0NDNhZmE4ZmUwMWU0ZTQ1ODI3MjEyNjMzMjI0ZWEzNTlm",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/74BKjMQLcfbHRTkbbhMWTs/tracks",
+    "total": 2
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:74BKjMQLcfbHRTkbbhMWTs"
+}

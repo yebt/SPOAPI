@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/3HDdyCNMCkq1BsNln4Hx5g"
+  },
+  "href": "https://api.spotify.com/v1/playlists/3HDdyCNMCkq1BsNln4Hx5g",
+  "id": "3HDdyCNMCkq1BsNln4Hx5g",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b2732a05c939de579755feca5f05ab67616d0000b2739efda673310de265a2c1cf1fab67616d0000b273b2592bea12d840fd096ef965",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b2732a05c939de579755feca5f05ab67616d0000b2739efda673310de265a2c1cf1fab67616d0000b273b2592bea12d840fd096ef965",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2732090f4f6cc406e6d3c306733ab67616d0000b2732a05c939de579755feca5f05ab67616d0000b2739efda673310de265a2c1cf1fab67616d0000b273b2592bea12d840fd096ef965",
+      "width": 60
+    }
+  ],
+  "name": "Trap de antaño",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "Niw4NmFmNDFkYjQxNGU2YWJmMDY2ZjhkMjcwMmFiNDM4ZmE4NDhhNGQy",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/3HDdyCNMCkq1BsNln4Hx5g/tracks",
+    "total": 5
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:3HDdyCNMCkq1BsNln4Hx5g"
+}

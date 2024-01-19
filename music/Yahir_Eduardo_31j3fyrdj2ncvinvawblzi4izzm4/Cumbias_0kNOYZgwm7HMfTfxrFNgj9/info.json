@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/0kNOYZgwm7HMfTfxrFNgj9"
+  },
+  "href": "https://api.spotify.com/v1/playlists/0kNOYZgwm7HMfTfxrFNgj9",
+  "id": "0kNOYZgwm7HMfTfxrFNgj9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a95aa3aaa76f83d4427625ee",
+      "width": 640
+    }
+  ],
+  "name": "Cumbias",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "Miw1YWZhYTg2YjZhNGViZGI0ZTZlMjZlZjE5Yzk5NzM1MjY0NTRmNTFm",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/0kNOYZgwm7HMfTfxrFNgj9/tracks",
+    "total": 1
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:0kNOYZgwm7HMfTfxrFNgj9"
+}

@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/1nvc1BMbq9DjzJmaP5ZCib"
+  },
+  "href": "https://api.spotify.com/v1/playlists/1nvc1BMbq9DjzJmaP5ZCib",
+  "id": "1nvc1BMbq9DjzJmaP5ZCib",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b27320ce6b27651688ee8969cb2eab67616d0000b27352cc5e3765a135c52e1bbbbcab67616d0000b27381e8dbcc784d8dbc7243ee0eab67616d0000b273ad8cc1fba73c2360ba0ff182",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b27320ce6b27651688ee8969cb2eab67616d0000b27352cc5e3765a135c52e1bbbbcab67616d0000b27381e8dbcc784d8dbc7243ee0eab67616d0000b273ad8cc1fba73c2360ba0ff182",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b27320ce6b27651688ee8969cb2eab67616d0000b27352cc5e3765a135c52e1bbbbcab67616d0000b27381e8dbcc784d8dbc7243ee0eab67616d0000b273ad8cc1fba73c2360ba0ff182",
+      "width": 60
+    }
+  ],
+  "name": "Fight",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MTAsMjU0NzRmNGJhMTQwODg2MDQ2MDgyMGE1MDhlNTg3YWIzY2UwNTljZg==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/1nvc1BMbq9DjzJmaP5ZCib/tracks",
+    "total": 9
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:1nvc1BMbq9DjzJmaP5ZCib"
+}

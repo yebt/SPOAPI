@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/2rZQfcBg5fWHwX8eXw6Fyd"
+  },
+  "href": "https://api.spotify.com/v1/playlists/2rZQfcBg5fWHwX8eXw6Fyd",
+  "id": "2rZQfcBg5fWHwX8eXw6Fyd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273045d7d98c6b1ebb12f336f09ab67616d0000b27340bb7015344e6d31af3827e0ab67616d0000b273a0668f2a621f7dee7bf78c04ab67616d0000b273a9c8b62293ffe675974bed38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273045d7d98c6b1ebb12f336f09ab67616d0000b27340bb7015344e6d31af3827e0ab67616d0000b273a0668f2a621f7dee7bf78c04ab67616d0000b273a9c8b62293ffe675974bed38",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273045d7d98c6b1ebb12f336f09ab67616d0000b27340bb7015344e6d31af3827e0ab67616d0000b273a0668f2a621f7dee7bf78c04ab67616d0000b273a9c8b62293ffe675974bed38",
+      "width": 60
+    }
+  ],
+  "name": "Sentimientos negativos y suaves",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NywxYjQ5MGEyNWFhZTE3YThlNTZhOWQxNzQxYTNkMDU3YjcwYmIwZGQy",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/2rZQfcBg5fWHwX8eXw6Fyd/tracks",
+    "total": 6
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:2rZQfcBg5fWHwX8eXw6Fyd"
+}

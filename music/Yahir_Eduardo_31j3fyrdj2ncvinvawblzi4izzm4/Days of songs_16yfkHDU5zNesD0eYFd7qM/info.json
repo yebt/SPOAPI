@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/16yfkHDU5zNesD0eYFd7qM"
+  },
+  "href": "https://api.spotify.com/v1/playlists/16yfkHDU5zNesD0eYFd7qM",
+  "id": "16yfkHDU5zNesD0eYFd7qM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732590c2d33bd70c8bf059591b",
+      "width": 640
+    }
+  ],
+  "name": "Days of songs",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MiwzZDlkYTA5ZWRhYWU2ZWRhMjY2NjgzMDIyMmVhYzRkZDZjZWIxM2Ri",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/16yfkHDU5zNesD0eYFd7qM/tracks",
+    "total": 1
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:16yfkHDU5zNesD0eYFd7qM"
+}

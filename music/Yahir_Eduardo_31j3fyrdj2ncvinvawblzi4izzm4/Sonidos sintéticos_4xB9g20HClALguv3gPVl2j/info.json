@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/4xB9g20HClALguv3gPVl2j"
+  },
+  "href": "https://api.spotify.com/v1/playlists/4xB9g20HClALguv3gPVl2j",
+  "id": "4xB9g20HClALguv3gPVl2j",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2735e74adbb3161e09bc5a10c3dab67616d0000b27373b3f8aa709236fc885b859bab67616d0000b27390437857156526859e13afdaab67616d0000b273d0349cd631791ca446be337a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2735e74adbb3161e09bc5a10c3dab67616d0000b27373b3f8aa709236fc885b859bab67616d0000b27390437857156526859e13afdaab67616d0000b273d0349cd631791ca446be337a",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2735e74adbb3161e09bc5a10c3dab67616d0000b27373b3f8aa709236fc885b859bab67616d0000b27390437857156526859e13afdaab67616d0000b273d0349cd631791ca446be337a",
+      "width": 60
+    }
+  ],
+  "name": "Sonidos sintéticos",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MTUsYzE0NWEzM2RiODMyNTBkM2MyNzA1NWZmYjUwNWMzOWJlN2NlNjQwYQ==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/4xB9g20HClALguv3gPVl2j/tracks",
+    "total": 14
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:4xB9g20HClALguv3gPVl2j"
+}

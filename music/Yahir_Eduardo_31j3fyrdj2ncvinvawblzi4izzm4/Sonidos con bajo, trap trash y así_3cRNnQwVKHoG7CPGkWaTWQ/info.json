@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/3cRNnQwVKHoG7CPGkWaTWQ"
+  },
+  "href": "https://api.spotify.com/v1/playlists/3cRNnQwVKHoG7CPGkWaTWQ",
+  "id": "3cRNnQwVKHoG7CPGkWaTWQ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273262f6b11f932c7c949b2b4eeab67616d0000b273ae0ca830fc3df212a475cdbcab67616d0000b273c09f7d089be6dac618cf178fab67616d0000b273c39864b0a6ac36e96efda277",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273262f6b11f932c7c949b2b4eeab67616d0000b273ae0ca830fc3df212a475cdbcab67616d0000b273c09f7d089be6dac618cf178fab67616d0000b273c39864b0a6ac36e96efda277",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273262f6b11f932c7c949b2b4eeab67616d0000b273ae0ca830fc3df212a475cdbcab67616d0000b273c09f7d089be6dac618cf178fab67616d0000b273c39864b0a6ac36e96efda277",
+      "width": 60
+    }
+  ],
+  "name": "Sonidos con bajo, trap trash y así",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MzIsMTdiMmU3MGEwMTE0NTZmOTJhOTAwODg4M2U1MmMyM2EwYjQxMWE0YQ==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/3cRNnQwVKHoG7CPGkWaTWQ/tracks",
+    "total": 31
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:3cRNnQwVKHoG7CPGkWaTWQ"
+}

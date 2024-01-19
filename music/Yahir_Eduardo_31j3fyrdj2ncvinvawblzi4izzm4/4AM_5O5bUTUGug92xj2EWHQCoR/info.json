@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/5O5bUTUGug92xj2EWHQCoR"
+  },
+  "href": "https://api.spotify.com/v1/playlists/5O5bUTUGug92xj2EWHQCoR",
+  "id": "5O5bUTUGug92xj2EWHQCoR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc30c3e4a81f8df555f353a0",
+      "width": 640
+    }
+  ],
+  "name": "4AM",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NCxkYjA1YWYxNGY0MTRiNDhhNmJjY2UxNTYxZjJiMzQwM2U3NmQ4NTFk",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/5O5bUTUGug92xj2EWHQCoR/tracks",
+    "total": 3
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:5O5bUTUGug92xj2EWHQCoR"
+}

@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/1Ba9pBx1uKGSEaS0YmEoBu"
+  },
+  "href": "https://api.spotify.com/v1/playlists/1Ba9pBx1uKGSEaS0YmEoBu",
+  "id": "1Ba9pBx1uKGSEaS0YmEoBu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f05064ff3f5d7727ae07b35",
+      "width": 640
+    }
+  ],
+  "name": "Rock viejo y esas cosas",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NSxlZDE3YWFhYzRmY2NjNjNiMzFlOThlYjU5YTNkOWZjZjg1YjUzODky",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/1Ba9pBx1uKGSEaS0YmEoBu/tracks",
+    "total": 4
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:1Ba9pBx1uKGSEaS0YmEoBu"
+}

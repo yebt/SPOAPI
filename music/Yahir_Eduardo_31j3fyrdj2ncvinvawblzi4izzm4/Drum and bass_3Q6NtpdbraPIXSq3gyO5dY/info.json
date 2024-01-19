@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/3Q6NtpdbraPIXSq3gyO5dY"
+  },
+  "href": "https://api.spotify.com/v1/playlists/3Q6NtpdbraPIXSq3gyO5dY",
+  "id": "3Q6NtpdbraPIXSq3gyO5dY",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2730dbc3d921b86b2929d899ad7ab67616d0000b27311612302c5d72bec57a1e681ab67616d0000b2733c71753980b91170f77c1069ab67616d0000b273b1fceef620bff4c02cd41a9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2730dbc3d921b86b2929d899ad7ab67616d0000b27311612302c5d72bec57a1e681ab67616d0000b2733c71753980b91170f77c1069ab67616d0000b273b1fceef620bff4c02cd41a9b",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2730dbc3d921b86b2929d899ad7ab67616d0000b27311612302c5d72bec57a1e681ab67616d0000b2733c71753980b91170f77c1069ab67616d0000b273b1fceef620bff4c02cd41a9b",
+      "width": 60
+    }
+  ],
+  "name": "Drum and bass",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "OCw5YjZmZDdjZDg0MTIzNzIyMTkyZDk1OWU4MDUxZTE1NTU2ZTc1N2E2",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/3Q6NtpdbraPIXSq3gyO5dY/tracks",
+    "total": 7
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:3Q6NtpdbraPIXSq3gyO5dY"
+}

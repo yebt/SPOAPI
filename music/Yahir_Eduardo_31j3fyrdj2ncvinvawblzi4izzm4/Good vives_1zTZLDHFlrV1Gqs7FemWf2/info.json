@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/1zTZLDHFlrV1Gqs7FemWf2"
+  },
+  "href": "https://api.spotify.com/v1/playlists/1zTZLDHFlrV1Gqs7FemWf2",
+  "id": "1zTZLDHFlrV1Gqs7FemWf2",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2735af6755da8c23d7a9bb07d9dab67616d0000b273ca7232129beaa19da34b919eab67616d0000b273cedc44ef5d41b6d67494ee96ab67616d0000b273dea510881ec1e506485303e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2735af6755da8c23d7a9bb07d9dab67616d0000b273ca7232129beaa19da34b919eab67616d0000b273cedc44ef5d41b6d67494ee96ab67616d0000b273dea510881ec1e506485303e4",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2735af6755da8c23d7a9bb07d9dab67616d0000b273ca7232129beaa19da34b919eab67616d0000b273cedc44ef5d41b6d67494ee96ab67616d0000b273dea510881ec1e506485303e4",
+      "width": 60
+    }
+  ],
+  "name": "Good vives",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NSw5N2ZkYzhlYWNmNmFhMGZmMmIzODc0NTk4YTdkN2ZlZGEzYWZhZjFi",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/1zTZLDHFlrV1Gqs7FemWf2/tracks",
+    "total": 4
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:1zTZLDHFlrV1Gqs7FemWf2"
+}

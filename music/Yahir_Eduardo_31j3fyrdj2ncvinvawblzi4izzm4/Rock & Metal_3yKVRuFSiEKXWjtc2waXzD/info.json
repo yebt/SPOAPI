@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/3yKVRuFSiEKXWjtc2waXzD"
+  },
+  "href": "https://api.spotify.com/v1/playlists/3yKVRuFSiEKXWjtc2waXzD",
+  "id": "3yKVRuFSiEKXWjtc2waXzD",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2730b02af77159866fe3e011c76ab67616d0000b273d55b4aa69f38d9a27179cec9ab67616d0000b273e2c60d0cdb5bce9f146d5a90ab67616d0000b273e772efc94d3400d5dbcb3e6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2730b02af77159866fe3e011c76ab67616d0000b273d55b4aa69f38d9a27179cec9ab67616d0000b273e2c60d0cdb5bce9f146d5a90ab67616d0000b273e772efc94d3400d5dbcb3e6e",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2730b02af77159866fe3e011c76ab67616d0000b273d55b4aa69f38d9a27179cec9ab67616d0000b273e2c60d0cdb5bce9f146d5a90ab67616d0000b273e772efc94d3400d5dbcb3e6e",
+      "width": 60
+    }
+  ],
+  "name": "Rock & Metal",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "OSwzZmFjODNlNDcwY2Y2OTM3ZGVmNDM3NjA3NjEwYWZiNTM5NzczZmEy",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/3yKVRuFSiEKXWjtc2waXzD/tracks",
+    "total": 8
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:3yKVRuFSiEKXWjtc2waXzD"
+}

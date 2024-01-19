@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/1MGfcDp2jIragwjL52yxIb"
+  },
+  "href": "https://api.spotify.com/v1/playlists/1MGfcDp2jIragwjL52yxIb",
+  "id": "1MGfcDp2jIragwjL52yxIb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2731440ffaa43c53d65719e0150ab67616d0000b2731bd073e07500f5c1ffe9ed23ab67616d0000b27369b381d574b329409bd806e6ab67616d0000b273f13c87b29acce422dbab4cac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2731440ffaa43c53d65719e0150ab67616d0000b2731bd073e07500f5c1ffe9ed23ab67616d0000b27369b381d574b329409bd806e6ab67616d0000b273f13c87b29acce422dbab4cac",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2731440ffaa43c53d65719e0150ab67616d0000b2731bd073e07500f5c1ffe9ed23ab67616d0000b27369b381d574b329409bd806e6ab67616d0000b273f13c87b29acce422dbab4cac",
+      "width": 60
+    }
+  ],
+  "name": "Phonk, conducción",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "OCw3N2E3Yjg2YTYyM2QwOGQ3MjNmYzk5YjA4ZTBkOWU1Njk5OGZmMjFj",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/1MGfcDp2jIragwjL52yxIb/tracks",
+    "total": 7
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:1MGfcDp2jIragwjL52yxIb"
+}

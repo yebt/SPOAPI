@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "A musical time capsule from the past has been unsealed…!",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/09bzC47WiuSeGpngAQ1uBa"
+  },
+  "href": "https://api.spotify.com/v1/playlists/09bzC47WiuSeGpngAQ1uBa",
+  "id": "09bzC47WiuSeGpngAQ1uBa",
+  "images": [
+    {
+      "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5de28ad4ba055f6966c249fa",
+      "width": null
+    }
+  ],
+  "name": "My 2023 Playlist in a Bottle",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NCw1MmEwOTU4OWMyNTExMTgzNmVlOWI2YTg5MWQzNmQ1NGMyNjVhNjJh",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/09bzC47WiuSeGpngAQ1uBa/tracks",
+    "total": 4
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:09bzC47WiuSeGpngAQ1uBa"
+}

@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/6NvJ1PMMV0Bo3M2bNbWHyl"
+  },
+  "href": "https://api.spotify.com/v1/playlists/6NvJ1PMMV0Bo3M2bNbWHyl",
+  "id": "6NvJ1PMMV0Bo3M2bNbWHyl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301d3574bf04694283e9876fd",
+      "width": 640
+    }
+  ],
+  "name": "Street Spanish",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NCxlMzNlMzMyZjRjMzBiNTQzNzQ1NDM1ZTU4ZDVhZmEzMDIwNDI5Yjk4",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/6NvJ1PMMV0Bo3M2bNbWHyl/tracks",
+    "total": 3
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:6NvJ1PMMV0Bo3M2bNbWHyl"
+}

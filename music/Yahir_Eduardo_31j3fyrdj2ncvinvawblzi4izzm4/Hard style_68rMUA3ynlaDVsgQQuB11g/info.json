@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/68rMUA3ynlaDVsgQQuB11g"
+  },
+  "href": "https://api.spotify.com/v1/playlists/68rMUA3ynlaDVsgQQuB11g",
+  "id": "68rMUA3ynlaDVsgQQuB11g",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273174e964b6fdf664e564b4f62ab67616d0000b2733a78236d9c646409aa783018ab67616d0000b2739e731c94b02096c10e8bfe73ab67616d0000b273f72ecf65274bd48ad75f3448",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273174e964b6fdf664e564b4f62ab67616d0000b2733a78236d9c646409aa783018ab67616d0000b2739e731c94b02096c10e8bfe73ab67616d0000b273f72ecf65274bd48ad75f3448",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273174e964b6fdf664e564b4f62ab67616d0000b2733a78236d9c646409aa783018ab67616d0000b2739e731c94b02096c10e8bfe73ab67616d0000b273f72ecf65274bd48ad75f3448",
+      "width": 60
+    }
+  ],
+  "name": "Hard style",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MTIsMGUzYmVjNmY1OWZjYWUxYWVhNDJmOWMwMzBjODIxOTU1MTYyNTA4Mw==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/68rMUA3ynlaDVsgQQuB11g/tracks",
+    "total": 11
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:68rMUA3ynlaDVsgQQuB11g"
+}

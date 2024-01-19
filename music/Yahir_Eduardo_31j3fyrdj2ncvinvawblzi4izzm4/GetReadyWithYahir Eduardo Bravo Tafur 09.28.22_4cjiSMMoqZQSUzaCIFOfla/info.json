@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "A playlist based on your style. You’re Breaking a Sweat. You’re wearing Green, Yellow, and Black. Your vibe is Shiny.",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/4cjiSMMoqZQSUzaCIFOfla"
+  },
+  "href": "https://api.spotify.com/v1/playlists/4cjiSMMoqZQSUzaCIFOfla",
+  "id": "4cjiSMMoqZQSUzaCIFOfla",
+  "images": [
+    {
+      "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb424a3309006059ba81ef13db",
+      "width": null
+    }
+  ],
+  "name": "GetReadyWithYahir Eduardo Bravo Tafur 09.28.22",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NCw1YzBlMmVhMTdlNjBlMTA3MGFjYzRlZmE5NzBlZTcwNjViOWRmNmU3",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/4cjiSMMoqZQSUzaCIFOfla/tracks",
+    "total": 30
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:4cjiSMMoqZQSUzaCIFOfla"
+}

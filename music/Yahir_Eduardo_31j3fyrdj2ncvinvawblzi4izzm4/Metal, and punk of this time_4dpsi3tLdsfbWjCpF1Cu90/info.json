@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/4dpsi3tLdsfbWjCpF1Cu90"
+  },
+  "href": "https://api.spotify.com/v1/playlists/4dpsi3tLdsfbWjCpF1Cu90",
+  "id": "4dpsi3tLdsfbWjCpF1Cu90",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273609a8a6a6eda9ba08093f4a7ab67616d0000b273c512b99913bf4a5563ab98efab67616d0000b273c8c4f8bc47d37fa95b2ead58ab67616d0000b273eaccf766c181fa3ff24048d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273609a8a6a6eda9ba08093f4a7ab67616d0000b273c512b99913bf4a5563ab98efab67616d0000b273c8c4f8bc47d37fa95b2ead58ab67616d0000b273eaccf766c181fa3ff24048d4",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273609a8a6a6eda9ba08093f4a7ab67616d0000b273c512b99913bf4a5563ab98efab67616d0000b273c8c4f8bc47d37fa95b2ead58ab67616d0000b273eaccf766c181fa3ff24048d4",
+      "width": 60
+    }
+  ],
+  "name": "Metal, and punk of this time",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MjEsZmYzMDY4MjJmZmIyYTJkMmQ3OThjZWEyNWNhNjc1NTI3N2I4NWM2Nw==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/4dpsi3tLdsfbWjCpF1Cu90/tracks",
+    "total": 20
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:4dpsi3tLdsfbWjCpF1Cu90"
+}

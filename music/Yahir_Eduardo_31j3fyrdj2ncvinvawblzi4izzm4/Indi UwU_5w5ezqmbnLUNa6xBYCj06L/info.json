@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/5w5ezqmbnLUNa6xBYCj06L"
+  },
+  "href": "https://api.spotify.com/v1/playlists/5w5ezqmbnLUNa6xBYCj06L",
+  "id": "5w5ezqmbnLUNa6xBYCj06L",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2730b5fba1e79c7d4c2368baa2aab67616d0000b2731138eea74b6d7e06289bedaaab67616d0000b2738a4281dc0abc2b840e65bcfeab67616d0000b273e459dd52fc5653480452049c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2730b5fba1e79c7d4c2368baa2aab67616d0000b2731138eea74b6d7e06289bedaaab67616d0000b2738a4281dc0abc2b840e65bcfeab67616d0000b273e459dd52fc5653480452049c",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2730b5fba1e79c7d4c2368baa2aab67616d0000b2731138eea74b6d7e06289bedaaab67616d0000b2738a4281dc0abc2b840e65bcfeab67616d0000b273e459dd52fc5653480452049c",
+      "width": 60
+    }
+  ],
+  "name": "Indi UwU",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NTQsMTMyNWNlMTA4NzA4ZDg5NGI1YjJiMjhmODBiMjY1ZTliNzg5NmMyNw==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/5w5ezqmbnLUNa6xBYCj06L/tracks",
+    "total": 53
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:5w5ezqmbnLUNa6xBYCj06L"
+}

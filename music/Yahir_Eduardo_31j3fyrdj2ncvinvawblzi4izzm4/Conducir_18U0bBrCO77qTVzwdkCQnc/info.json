@@ -1,0 +1,36 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/18U0bBrCO77qTVzwdkCQnc"
+  },
+  "href": "https://api.spotify.com/v1/playlists/18U0bBrCO77qTVzwdkCQnc",
+  "id": "18U0bBrCO77qTVzwdkCQnc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369b381d574b329409bd806e6",
+      "width": 640
+    }
+  ],
+  "name": "Conducir",
+  "owner": {
+    "display_name": "Yahir Eduardo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/31j3fyrdj2ncvinvawblzi4izzm4"
+    },
+    "href": "https://api.spotify.com/v1/users/31j3fyrdj2ncvinvawblzi4izzm4",
+    "id": "31j3fyrdj2ncvinvawblzi4izzm4",
+    "type": "user",
+    "uri": "spotify:user:31j3fyrdj2ncvinvawblzi4izzm4"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "NSw3MjA2ODkyZTgzZDVjMjk4YWMxMGVhZDg3NTNhZjE5ZGIwMWFjMjhm",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/18U0bBrCO77qTVzwdkCQnc/tracks",
+    "total": 4
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:18U0bBrCO77qTVzwdkCQnc"
+}
